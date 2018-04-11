@@ -2,90 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08100fb-f6a6-4996-95ae-9d13b98f0d88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/7.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/addcontent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/home.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/css/s" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/Apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/Cherry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/Cupcake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/images/w" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/js/jquery.singlePageNav.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/tag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/user-search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/user_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-ruoyang.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/home.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Cherry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Cupcake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Radish.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Raspberry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Strawberry.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Watermelon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/application_file_python_128px_6585_easyicon.net.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clock.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/github.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/html_154px_1205615_easyicon.net.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mime_application_x_javascript_256px_1067932_easyicon.net.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ningruoyang.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ruoyang.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xiaoyu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/熊猫.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/猪.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/考拉.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/鲸鱼.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/鹿.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.singlePageNav.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -104,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="892">
-              <caret line="77" column="46" lean-forward="false" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="46" />
+            <state relative-caret-position="68">
+              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -341,12 +257,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523414487306</updated>
-      <workItem from="1523414489362" duration="14186000" />
+      <workItem from="1523414489362" duration="14429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14186000" />
+    <option name="totallyTimeSpent" value="14429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -421,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="892">
-          <caret line="77" column="46" lean-forward="false" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="46" />
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
         </state>
       </provider>
