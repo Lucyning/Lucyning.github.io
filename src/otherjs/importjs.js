@@ -1,4 +1,4 @@
-document.write("<script language='javascript' src='./L2Dwidget.min.js'></script>");
+document.write("<script language='javascript' src='http://www.nryang.com/src/otherjs/L2Dwidget.min.js'></script>");
 L2Dwidget.init(getOptions('./live2d-widget-model-wanko/assets/wanko.model.json'));
 function getOptions(dir) {
     return {
