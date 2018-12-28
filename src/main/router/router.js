@@ -3,9 +3,9 @@
 // 路由映射
 const routers = [{
     path: '/',
-    name: 'corepage',
-    meta: {title: "主页面"},
-    component: require('../container/corepage.vue')
+    name: 'index',
+    meta: {title: "ry"},
+    component: require('../container/index.vue')
 }, {
     path: '/routerpage1',
     name: 'routerpage1',
