@@ -159,7 +159,15 @@ module.exports = {
                         limit: 25000
                     }
                 }]
-            }
+            }, {
+                test: /\.(mp3)(\?.*)?$/,
+                use: [{
+                    loader: 'url-loader',
+                    options: {
+                        limit: 25000
+                    }
+                }]
+           }
         ]
     },
     target: "web",
@@ -168,7 +176,7 @@ module.exports = {
         contentBase: HTML_PATH,
         historyApiFallback: false,
         hot: true,
-        port: 8080,
+        port: 7000,
         disableHostCheck: true,  // 失能域名检查
         publicPath: PUBLIC_PATH,
         noInfo: false

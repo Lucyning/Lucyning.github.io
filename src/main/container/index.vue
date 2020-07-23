@@ -3,6 +3,7 @@
     <div class="fix-bg-img"></div>
     <header class="head-title">
         <i class="head-pic"></i>
+        <span class="head-text">这是美女小羊写给小付的网站</span>
         <ul class="base-flex title-right">
             <li v-for="item in HEADLIST" class=" base-flex">
                 <i class="head-right-pic" :class="'head-pic-'+item.className"></i>
@@ -10,6 +11,27 @@
             </li>
         </ul>
     </header>
+    <div class="center">
+        <div class="base-flex">
+            <div class="flex-1 common-border">
+                在一起日期：2020.05.22
+            </div>
+            <div class="flex-1 common-border">
+                <i class="main-pic img-1"></i>
+                <i class="main-pic img-2"></i>
+                <i class="main-pic img-4"></i>
+                <i class="main-pic img-3"></i>
+            </div>
+            <div class="flex-1 common-border">
+                未来期许：
+                <div>belle 水晶鞋</div>
+                <div>两只猫一只狗</div>
+                <div>快快乐乐的在一起</div>
+            </div>
+        </div>
+        <audio class="audio" src="http://52fzq.com/static/music.mp3"  controls>
+        </audio>
+    </div>
 </div>
 </template>
 
@@ -32,40 +54,6 @@ export default {
     mounted() {
     },
     methods: {
-        // getOptions(dir) {
-        //     return {
-        //         model: {
-        //             jsonPath: dir,
-        //         },
-        //         display: {
-        //             superSample: 2,
-        //             width: 150,
-        //             height: 300,
-        //             position: 'right',
-        //             hOffset: 0,
-        //             vOffset: 0,
-        //         },
-        //         mobile: {
-        //             show: true,
-        //             scale: 1,
-        //             motion: true,
-        //         },
-        //         react: {
-        //             opacityDefault: 0.85,
-        //             opacityOnHover: 0.2,
-        //         },
-        //     }
-
-        // },
-        onRouterPage1BtnClick(){
-            this.$router.push({ name: 'routerpage1'});
-        },
-        onRouterPage2BtnClick(){
-            this.$router.push({ name: 'routerpage2'});
-        },
-        onRouterPage3BtnClick(){
-            this.$router.push({ name: 'routerpage3'});
-        }
     },
     computed: {
 
@@ -76,10 +64,13 @@ export default {
 <style scoped lang="less" rel="stylesheet/less">
 .base-flex {
     display: flex;
-    display: -webkit-flex;
 }
-.base-flex-1 {
-
+.flex-1 {
+    flex: 1;
+}
+.common-border {
+    margin: 10px;
+    color: #777;
 }
 .index-page {
     .fix-bg-img {
@@ -98,16 +89,25 @@ export default {
         position: fixed;
         z-index: 10;
         top: 0;
-        padding: 20px;
+        padding: 10px;
+        height: 60px;
         width: 100%;
         box-shadow: 0px 0px 5px #efef;
         .head-pic {
             display: inline-block;
             width: 60px;
             height: 60px;
-            background-image: url('../img/nry.jpg');
+            background-image: url('../img/beauty_1569049099328.jpg');
             background-size: cover;
             border-radius: 50%;
+        }
+        .head-text {
+            color: #777;
+            position: absolute;
+            font-size: 12px;
+            margin-left: 10px;
+            display: inline-block;
+            line-height: 60px;
         }
         .title-right {
             float: right;
@@ -132,6 +132,31 @@ export default {
     }
     .head-pic-watermelon {
         background-image: url('../img/watermelon.png');
+    }
+    .center {
+        margin-top: 80px;
+        .audio {
+            position: absolute;
+            bottom: 10px;
+        }
+        .main-pic {
+            display: inline-block;
+            width: 200px;
+            height: 200px;
+            background-size: cover;
+        }
+        .img-1 {
+            background-image: url('../img/main.jpg');
+        }
+        .img-2 {
+            background-image: url('../img/beauty_1592893462730.jpg');
+        }
+        .img-3 {
+            background-image: url('../img/beauty_1595134862783.jpg');
+        }
+        .img-4 {
+            background-image: url('../img/beauty_1592985068100.jpg');
+        }
     }
 }
 </style>
