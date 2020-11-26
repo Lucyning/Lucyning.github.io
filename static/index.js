@@ -2325,7 +2325,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "head-pic"
   }), _vm._v(" "), _c('span', {
     staticClass: "head-text"
-  }, [_vm._v("这是美女小羊写给小付的网站")]), _vm._v(" "), _c('ul', {
+  }, [_vm._v("这是美女小羊写给小潘的网站")]), _vm._v(" "), _c('ul', {
     staticClass: "base-flex title-right"
   }, _vm._l((_vm.HEADLIST), function(item) {
     return _c('li', {
@@ -2348,7 +2348,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "base-flex"
   }, [_c('div', {
     staticClass: "flex-1 common-border"
-  }, [_vm._v("\n                在一起日期：2020.05.22\n            ")]), _vm._v(" "), _c('div', {
+  }, [_vm._v("\n                认识日期：2020.10.26\n            ")]), _vm._v(" "), _c('div', {
     staticClass: "flex-1 common-border"
   }, [_c('i', {
     staticClass: "main-pic img-1"
@@ -2360,7 +2360,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "main-pic img-3"
   })]), _vm._v(" "), _c('div', {
     staticClass: "flex-1 common-border"
-  }, [_vm._v("\n                未来期许：\n                "), _c('div', [_vm._v("belle 水晶鞋")]), _vm._v(" "), _c('div', [_vm._v("两只猫一只狗")]), _vm._v(" "), _c('div', [_vm._v("快快乐乐的在一起")])])]), _vm._v(" "), _c('audio', {
+  }, [_vm._v("\n                关键字：\n                "), _c('div', [_vm._v("及时行乐")]), _vm._v(" "), _c('div', [_vm._v("活在当下")]), _vm._v(" "), _c('div', [_vm._v("开心")])])]), _vm._v(" "), _c('audio', {
     staticClass: "audio",
     attrs: {
       "src": "http://52fzq.com/static/music.mp3",
