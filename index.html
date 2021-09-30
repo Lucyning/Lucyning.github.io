@@ -15,10 +15,9 @@
             <img src="./src/images/head.jpg" class="title-pic">
             <h5 class="my-0 mr-md-auto font-weight-normal">RuoyangNing's website</h5>
             <nav class="my-2 my-md-0 mr-md-3">
-              <a class="p-2 text-white" href="#">Features</a>
-              <a class="p-2 text-white" href="#">Enterprise</a>
-              <a class="p-2 text-white" href="#">Support</a>
-              <a class="text-white" href="#">Pricing</a>
+              <a class="p-2 text-white" href="#photos">Photos</a>
+              <a class="p-2 text-white" href="#introduction">Introduction</a>
+              <a class="p-2 text-white" href="#experience">Experience</a>
             </nav>
         </div>
         <div class="row mb-2 center1">
@@ -59,7 +58,7 @@
               </div>
             </div>
         </div>
-        <h1 class="title-text">Photos</h1>
+        <h1 class="title-text" id="photos">Photos</h1>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
               <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -102,7 +101,7 @@
               <span class="sr-only">Next</span>
             </a>
         </div>
-        <h1 class="title-text">Introduction</h1>
+        <h1 class="title-text" id="introduction">Introduction</h1>
         <div class="row mb-2 center1">
             <div class="col-md-8">
                 <p>I am NingRuoyang, and I graduated from Fudan University with the bachelor degree in July 2018. Then, I worked as
@@ -138,7 +137,7 @@
                 </table>
             </div>
         </div>
-        <h1 class="title-text">Experience</h1>
+        <h1 class="title-text" id="experience">Experience</h1>
         <div class="timeline whitebg">
             <div class="year">
               <div class="inner">
@@ -243,6 +242,10 @@
               </div>
             </div>
         </div>
+        <footer class="container">
+            <p class="float-right"><a href="#">Back to top</a></p>
+            <p>&copy; RuoyangNing; 21066065g@connect.polyu.hk</p>
+        </footer>
     </div>
     <script src="./src/otherjs/L2Dwidget.min.js"></script>
     <script type="text/javascript">
@@ -282,7 +285,7 @@
         })
         var img = document.querySelector('.mouse-img');
         document.addEventListener('mousemove', function(e){
-            img.style.top = e.pageY - 40 +'px';
+            img.style.top = e.pageY - 80 +'px';
             img.style.left = e.pageX - 48 +'px';
         })
     </script>
